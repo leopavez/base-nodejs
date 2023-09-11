@@ -1,6 +1,4 @@
-# servicios_tecnicos
-
-Servicio backend para proyecto de Servicios Técnicos.
+# Backend base using node + express + mysql or mongo
 
 ## Getting started
 
